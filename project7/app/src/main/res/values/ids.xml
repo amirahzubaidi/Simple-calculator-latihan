@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="inputNumber1" type="id" />
+    <item name="inputNumber2" type="id" />
+    <item name="resultText" type="id" />
+    <item name="addButton" type="id" />
+    <item name="subtractButton" type="id" />
+    <item name="multiplyButton" type="id" />
+    <item name="divideButton" type="id" />
+</resources>
